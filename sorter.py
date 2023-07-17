@@ -1,6 +1,6 @@
 import random
 num=[]
-for n in range(500):
+for n in range(100):
     nu=random.randint(1, 2)
     num.append(nu)
 print(num)
